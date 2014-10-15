@@ -6,7 +6,7 @@ This python script provides an easy way to visualize data about your friends net
 
 ### Requirements
 
-This script uses the packages [link networkx](https://networkx.github.io/ "networkx") (network visualization on python) and [link community](https://bitbucket.org/taynaud/python-louvain "community")(community detection with the louvain method).
+This script uses the packages [networkx ](https://networkx.github.io/ (network visualization on python) and [community ](https://bitbucket.org/taynaud/python-louvain "community")(community detection with the louvain method).
 
 ### Getting the data
 
