@@ -6,11 +6,11 @@ This python script provides an easy way to visualize data about your friends net
 
 ### Requirements
 
-This script requires the packages networkx and community.
+This script uses the packages [link networkx](https://networkx.github.io/ "networkx") (network visualization on python) and [link community](https://bitbucket.org/taynaud/python-louvain "community")(community detection with the louvain method).
 
 ### Getting the data
 
-Your facebook data can be downloaded in a csv after getting the app http://www.givememydata.com/ like follows:
+Your facebook data can be downloaded in a csv after getting the app [link givemydata](http://www.givememydata.com/ "Give My Data") like follows:
 
 ![alt text](https://github.com/charlesdurand/facebook_data/blob/master/images/facebook_instructions.png)
 
@@ -35,4 +35,4 @@ Each group being split, you are asked to label each group based on some of its e
 The output enables to visualize your friends' network in a global manner:
 ![alt text](https://github.com/charlesdurand/facebook_data/blob/master/images/my_facebook_network.png)
 
-*The examples above use my own Facebook personal data (hence the low quality of the pictures)*
+*The examples above use my own Facebook personal data (hence the low quality of the pictures for privacy reasons)*

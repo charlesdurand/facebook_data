@@ -4,6 +4,10 @@ import networkx as nx
 import matplotlib.pylab as plt
 import seaborn
 import community
+import sys  
+
+reload(sys)  
+sys.setdefaultencoding('utf8')
 
 class facebook_graph():
     def __init__(self, data_path, own_name):
