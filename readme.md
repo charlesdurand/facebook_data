@@ -33,6 +33,6 @@ This enables to visualize your network, split by coherent groups (on the grounds
 Each group being split, you are asked to label each group based on some of its elements:
 ![alt text](https://github.com/charlesdurand/facebook_data/blob/master/images/input.png)
 The output enables to visualize your friends' network in a global manner:
-![alt text](https://github.com/charlesdurand/facebook_data/blob/master/images/number_of_common_friends_of_friends.png)
+![alt text](https://github.com/charlesdurand/facebook_data/blob/master/images/my_facebook_network.png)
 
 *The examples above use my own Facebook personal data (hence the low quality of the pictures)*
